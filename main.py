@@ -10,7 +10,7 @@ from telethon.tl.functions.account import UpdateStatusRequest  # ✅ Correct imp
 API_ID = 26800922
 API_HASH = "7afe6263d7cf10c8b0a984a38f94ac11"
 SESSION_STRING = "1BVtsOJABu16Gfjsic_uMaJWli4TLbd4RpHikm2aLcXwsD1P6bMfxDJ8myo1ZcWlVXioX7q1vxhEEYYAAJ_EWh7SKP651tvLBsmLo8XycY73bkELXGzXhGFPHfkIv_YzA9hGRZhF_B1UkMjRT-4b4ccf3FdEA94bhDOaQqUSF19XmJaHrQgPyqrW41XZF0XG3q1nO7evPnv2rUlil_Ajzx98CghEI7D28nMkwgaj4D0Aab4u0vmiG0_HxFbFK5ubRYxXG_dSMKgSS55GIN_75M41fcmQ0lcG87af95i6q6fUTw_PNS7YhgLDfeHzYbz37jB--U31aS25535aEJ_htfbjVzqP-P-g="
-OWNER_ID = 7043216350
+OWNER_ID = 7329778516
 CHEAT_BOT = 6355945378  # @collect_waifu_cheats_bot
 
 client = TelegramClient(StringSession(SESSION_STRING), API_ID, API_HASH)
