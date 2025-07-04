@@ -111,8 +111,8 @@ async def info(event):
         await event.reply("❌ pfp.jpg not found!")
 
 # ────────────── AUTO GRAB WAIFU ──────────────
-WAIFU_HUSBANDO_BOT_IDS = [6195436879, 6546492683]
-WAIFU_HUSBANDO_BOT_USERNAMES = ["Waifu_Grabber_Bot", "Husbando_Grabber_Bot"]
+WAIFU_HUSBANDO_BOT_IDS = [7438162678]
+WAIFU_HUSBANDO_BOT_USERNAMES = ["@Slave_waifu_bot"]
 
 @client.on(events.NewMessage(pattern="/xon", from_users=OWNER_ID))
 async def turn_on(event):
